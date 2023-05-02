@@ -15,8 +15,10 @@ On windows :
 ./install.bat /path/to/GPT4All-ui
 ```
 
+Note: Replace `/path/to/GPT4All-ui` with the actual path to the root of your GPT4All-ui folder.
 
 ## Usage
 After installation, you can start using GPTQ_backend by running GPT4ALL-ui and selecting "gptq" as the backend.
 
 ## License
+GPTQ_backend is licensed under the Apache License, Version 2.0. See LICENSE for more information.
